@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objetos","order":1,"path":"folders/Objetos.yy",},
+    {"name":"Salas","order":3,"path":"folders/Salas.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Fundos","order":4,"path":"folders/Sprites/Fundos.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_agua","order":4,"path":"objects/obj_agua/obj_agua.yy",},
+    {"name":"obj_global","order":1,"path":"objects/obj_global/obj_global.yy",},
+    {"name":"obj_int","order":3,"path":"objects/obj_int/obj_int.yy",},
+    {"name":"obj_npc","order":5,"path":"objects/obj_npc/obj_npc.yy",},
+    {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_trans","order":6,"path":"objects/obj_trans/obj_trans.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"spr_agua","order":2,"path":"sprites/spr_agua/spr_agua.yy",},
+    {"name":"spr_npc","order":3,"path":"sprites/spr_npc/spr_npc.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+  ],
+}
